@@ -18,19 +18,5 @@ This Python project combines voice command recognition with email-based OTP veri
 
 ```bash
 git clone https://github.com/AshokSai1999/Speech-Recognition
-cd voice-assistant-otp
-pip install pyttsx3 speechrecognition pyaudio
 
-🚀 Usage
-Run the voice assistant:
-python speech.py
-
-📦 Dependencies
-pyttsx3
-speech_recognition
-smtplib
-email (from Python stdlib)
-
-👨‍💻 Author
-Ashok Sudireddy
 
